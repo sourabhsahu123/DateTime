@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UIExample2</string>
+    <string name="progresstitle">File Download</string>
+    <string name="progressmessage">Downloading ....</string>
 </resources>
